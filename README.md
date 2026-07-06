@@ -14,11 +14,6 @@ exercícios.
 - Escrever consultas com filtragem e ordenação de resultados
 - Dominar as operações INNER JOIN, LEFT JOIN e RIGHT JOIN
 
-## Pre-requisitos
-
-- Conhecimento básico de lógica de programação
-- Não é necessário conhecimento prévio em SQL
-
 ## Conceitos abordados
 
 | Conceito | Descrição |
